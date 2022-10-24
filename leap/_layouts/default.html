@@ -18,14 +18,12 @@
   <body>
 
       <header>
-        <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+        <h1 class="hdr">{{ page.header | default: site.header }}</h1>
+        <p class="sub">{{ page.subheader | default: site.subheader }}</p>
       </header>
 
       <div id="banner">
-        <span id="log"></span>
-        <img style="position: absolute; height: 36px; right:7px; top:7px; display: block" src="images/cvut.png" />
-
+        <img id="ctulogo" src="images/cvut.png" />
 
          <div class="downloads">
             <ul>

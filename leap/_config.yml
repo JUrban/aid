@@ -16,7 +16,7 @@
 title: Department of Artificial Inteligence
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  at <strong>Czech Institute of Informatics, Robotics and Cybernetics</strong>
+  at <b>Czech Institute of Informatics, Robotics and Cybernetics</b>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
@@ -24,6 +24,11 @@ github_username:  ai4reason
 repository: ai4reason/aid
 
 show_downloads: true
+
+header: Department of Artificial Inteligence
+subheader: >- # this means to ignore newlines until "baseurl:"
+  at <b>Czech Institute of Informatics, Robotics and Cybernetics</b>
+
 
 # Build settings
 markdown: kramdown

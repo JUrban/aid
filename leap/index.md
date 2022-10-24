@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Department of Artificial Inteligence
+title: Home
 ---
 
 ## About ##
-
+ 
 The aim of the newly established department of Artificial Intelligence is to make an advancement in the field of artificial general intelligence.
 
 ## Groups ##
