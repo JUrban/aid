@@ -25,6 +25,12 @@ repository: ai4reason/aid
 
 show_downloads: true
 
+groups:
+  - FM
+  - FAI
+  - ML
+  - AR
+
 header: Department of Artificial Inteligence
 subheader: >- # this means to ignore newlines until "baseurl:"
   at <b>Czech Institute of Informatics, Robotics and Cybernetics</b>

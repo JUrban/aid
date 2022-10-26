@@ -9,21 +9,15 @@ The aim of the newly established department of Artificial Intelligence is to mak
 
 ## Loop ##
 
-{{ site.collections }}
+{{ site.pagesxxx }}
 
 <ul>      
+
    {%- for post in site.pages -%}
-      <li>{{ post.path }}</li>
+      <li>{{ post.title }}</li>
    {%- endfor -%}
 </ul>
 
-groups: `{{site.groups}}`
-
-<ul>      
-   {%- for group in site.groups -%}
-      <li>{{ group }}</li>
-   {%- endfor -%}
-</ul>
 
 ## Groups ##
 
