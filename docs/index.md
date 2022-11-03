@@ -5,7 +5,7 @@ index: 0
 ---
 
 ## About 
- 
+
 The aim of the newly established department of Artificial Intelligence is to make an advancement in the field of artificial general intelligence.
 
 ## Groups
